@@ -1,0 +1,397 @@
+﻿body {
+    background: #662e9b;
+    overflow-x: hidden; 
+}
+.Title-one,
+.Title-one * {
+    box-sizing: border-box;
+}
+
+.Title-one {
+    background: #662e9b;
+    width: 1280px;
+    height: 832px;
+    position: relative;
+    overflow:inherit; 
+}
+
+.ytrUamy {
+    width: 275px;
+    height: 283px;
+    position: absolute;
+    left: 100px;
+    top: 50px;
+}
+
+.welcome-to-my-digital-playground {
+    color: #f9c80e;
+    text-align: left;
+    font: 700 48px "Bahnschrift", sans-serif;
+    position: absolute;
+    left: 100px;
+    top: 300px;
+    width: 420px;
+    height: 128px;
+}
+
+.LittleIntro {
+    color: #f9c80e;
+    text-align: left;
+    font: 700 20px "Bahnschrift", sans-serif;
+    position: absolute;
+    left: 100px;
+    top: 420px;
+    width: 434px;
+    height: 76px;
+}
+
+.lkyFDJF {
+    width: 1308px;
+    height: 2000px;
+    position: absolute;
+    left: 538px;
+    top: -789px;
+}
+
+.ButtonExplore {
+    cursor: pointer;
+    background: #29272b;
+    border: 0;
+    border-radius: 50px;
+    padding: 15px 10px 10px 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 180px;
+    height: 46px;
+    position: absolute;
+    left: 100px;
+    top: 500px;
+}
+    .ButtonExplore:hover {
+        background-color: #ba9506;
+    }
+
+.explore-creativity {
+    color: aliceblue;
+    text-align: center;
+    font: 700 16px "Bahnschrift", sans-serif;
+    position: relative;
+    width: 169px;
+    height: 26px;
+}
+
+.IntroFrame {
+    background: #29272b;
+    width:1500px;
+    height: 832px;
+    position: absolute;
+    left: 0px;
+    top: 832px;
+    overflow: hidden;
+    z-index:1; 
+}
+
+.tWxCf6tZvRCos616cKV5PxR8Lh4 {
+    width: 990.29px;
+    height: 1088.73px;
+    position: absolute;
+    left: 830px;
+    top: 846.56px;
+    transform-origin: 0 0;
+    transform: rotate(164.002deg) scale(1, 1);
+}
+
+.meet-louraine {
+    color: #f9c80e;
+    text-align: left;
+    font: 700 48px "Bahnschrift", sans-serif;
+    position: absolute;
+    left: 574px;
+    top: 198px;
+    width: 393px;
+    height: 78px;
+}
+
+.vu2eNdD {
+    width: 382px;
+    height: 345px;
+    position: absolute;
+    left: 87px;
+    top: 198px;
+}
+
+.MoreIntro {
+    color: #ffffff;
+    text-align: left;
+    font: 700 24px "Bahnschrift", sans-serif;
+    position: absolute;
+    left: 574px;
+    top: 269px;
+    width: 542px;
+    height: 223px;
+}
+
+.ButtonAbout {
+    cursor: pointer;
+    background-color: #662e9b;
+    border: 0;
+    border-radius: 50px;
+    padding: 15px 10px 10px 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 180px;
+    height: 46px;
+    position: absolute;
+    left: 574px;
+    top: 492px;
+}
+
+    .ButtonAbout:hover {
+        background-color: #f9c80e;
+    }
+
+.see-more-about-me {
+    color: aliceblue;
+    text-align: center;
+    font: 700 16px "Bahnschrift", sans-serif;
+    position: relative;
+    width: 162px;
+    height: 26px;
+}
+
+
+.ProjectFrames {
+    background: #662e9b;
+    width: 1280px;
+    height: 832px;
+    position: absolute;
+    left: 0px;
+    top: 1661px;
+    
+}
+
+.tWxCf6tZvRCos616cKV5PxR8Lh4-3 {
+    width: 679.34px;
+    height: 1330.92px;
+    position: absolute;
+    left: 1132.13px;
+    top: -21px;
+    transform-origin: 0 0;
+    transform: rotate(53.736deg) scale(1, 1);
+    overflow: hidden; 
+}
+
+.tWxCf6tZvRCos616cKV5PxR8Lh4-2 {
+    width: 589.76px;
+    height: 888.37px;
+    position: absolute;
+    left: 471.29px;
+    top: -435px;
+    transform-origin: 0 0;
+    transform: rotate(53.736deg) scale(1, 1);
+}
+
+.most-recent-projects {
+    color: #f9c80e;
+    text-align: left;
+    font: 700 48px "Bahnschrift", sans-serif;
+    position: absolute;
+    left: 101px;
+    top: 347px;
+    width: 346px;
+    height: 59px;
+}
+
+.ButtonProjects {
+    cursor: pointer;
+    background: #29272b;
+    border: 0;
+    border-radius: 50px;
+    padding: 15px 10px 10px 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 180px;
+    height: 46px;
+    position: absolute;
+    left: 98px;
+    top: 474px;
+}
+    .ButtonProjects:hover {
+        background-color: #ba9506;
+    }
+
+.see-more-here {
+    color: #ffffff;
+    text-align: center;
+    font: 700 16px "Bahnschrift", sans-serif;
+    position: relative;
+    width: 169px;
+    height: 26px;
+}
+
+.frame-1 {
+    width: 317px;
+    height: 1767px;
+    position: absolute;
+    left: 447px;
+    top: 58px;
+    overflow-x: auto;
+    overflow-x: hidden;
+    z-index:0; 
+}
+
+.rectangle-2 {
+    background: #d9d9d9;
+    border-radius: 50px;
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+}
+
+.rectangle-3 {
+    background: #d9d9d9;
+    border-radius: 50px;
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    left: 0px;
+    top: 396px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+}
+
+.rectangle-4 {
+    background: #d9d9d9;
+    border-radius: 50px;
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    left: 0px;
+    top: 792px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+}
+
+.frame-2 {
+    width: 314px;
+    height: 1767px;
+    position: absolute;
+    left: 764px;
+    top: -164px;
+    overflow-x: auto;
+}
+
+.rectangle-32 {
+    background: #d9d9d9;
+    border-radius: 50px;
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    left: 0px;
+    top: 400px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+}
+
+.rectangle-42 {
+    background: #d9d9d9;
+    border-radius: 50px;
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    left: 0px;
+    top: 800px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+}
+
+.frame-3 {
+    width: 287px;
+    height: 1767px;
+    position: absolute;
+    left: 1078px;
+    top: -80px;
+    overflow-y: auto;
+}
+
+.Connect-with-me {
+    background: #29272b;
+    width: 1280px;
+    height: 832px;
+    position: absolute;
+    left: 0px;
+    top: 2492px;
+    overflow: hidden;
+}
+
+.group-1 {
+    position: absolute;
+    inset: 0;
+}
+
+.let-s-connect {
+    color: #f9c80e;
+    text-align: center;
+    font: 700 64px "Bahnschrift", sans-serif;
+    position: absolute;
+    left: 313px;
+    top: 317px;
+    width: 654px;
+    height: 59px;
+}
+
+.icon-linked-in {
+    position: absolute;
+    left: 478px;
+    top: 396px;
+    overflow: visible;
+}
+
+.icon-envelope-icon {
+    position: absolute;
+    left: 560px;
+    top: 396px;
+    overflow: visible;
+}
+
+.icon-alternate-phone-square-icon {
+    position: absolute;
+    left: 648px;
+    top: 396px;
+    overflow: visible;
+}
+
+.icon-instagram-alt-icon {
+    position: absolute;
+    left: 729px;
+    top: 396px;
+    overflow: visible;
+}
+
+.ask-me-any-questions-you-might-have-or-just-drop-me-a-message-to-say-hello {
+    color: #ffffff;
+    text-align: center;
+    font: 700 24px "Bahnschrift", sans-serif;
+    position: absolute;
+    left: 414px;
+    top: 469px;
+    width: 468px;
+    height: 46px;
+}
+
+.group-2 {
+    position: absolute;
+    inset: 0;
+}
