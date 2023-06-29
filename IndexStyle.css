@@ -1,4 +1,4 @@
-﻿body {
+body {
     background: #662e9b;
     overflow-x: hidden; 
 }
@@ -9,10 +9,9 @@
 
 .Title-one {
     background: #662e9b;
-    width: 1280px;
     height: 832px;
     position: relative;
-    overflow:inherit; 
+    overflow: inherit;
 }
 
 .ytrUamy {
@@ -232,99 +231,6 @@
     height: 26px;
 }
 
-.frame-1 {
-    width: 317px;
-    height: 1767px;
-    position: absolute;
-    left: 447px;
-    top: 58px;
-    overflow-x: auto;
-    overflow-x: hidden;
-    z-index:0; 
-}
-
-.rectangle-2 {
-    background: #d9d9d9;
-    border-radius: 50px;
-    width: 300px;
-    height: 350px;
-    position: absolute;
-    left: 0px;
-    top: 0px;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    transform-origin: 0 0;
-    transform: rotate(0deg) scale(1, 1);
-}
-
-.rectangle-3 {
-    background: #d9d9d9;
-    border-radius: 50px;
-    width: 300px;
-    height: 350px;
-    position: absolute;
-    left: 0px;
-    top: 396px;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    transform-origin: 0 0;
-    transform: rotate(0deg) scale(1, 1);
-}
-
-.rectangle-4 {
-    background: #d9d9d9;
-    border-radius: 50px;
-    width: 300px;
-    height: 350px;
-    position: absolute;
-    left: 0px;
-    top: 792px;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    transform-origin: 0 0;
-    transform: rotate(0deg) scale(1, 1);
-}
-
-.frame-2 {
-    width: 314px;
-    height: 1767px;
-    position: absolute;
-    left: 764px;
-    top: -164px;
-    overflow-x: auto;
-}
-
-.rectangle-32 {
-    background: #d9d9d9;
-    border-radius: 50px;
-    width: 300px;
-    height: 350px;
-    position: absolute;
-    left: 0px;
-    top: 400px;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    transform-origin: 0 0;
-    transform: rotate(0deg) scale(1, 1);
-}
-
-.rectangle-42 {
-    background: #d9d9d9;
-    border-radius: 50px;
-    width: 300px;
-    height: 350px;
-    position: absolute;
-    left: 0px;
-    top: 800px;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    transform-origin: 0 0;
-    transform: rotate(0deg) scale(1, 1);
-}
-
-.frame-3 {
-    width: 287px;
-    height: 1767px;
-    position: absolute;
-    left: 1078px;
-    top: -80px;
-    overflow-y: auto;
-}
 
 .Connect-with-me {
     background: #29272b;
@@ -394,4 +300,274 @@
 .group-2 {
     position: absolute;
     inset: 0;
+}
+
+
+@media screen and (max-width: 600px) {
+    .Title-one,
+    .Title-one * {
+        box-sizing: border-box;
+    }
+
+    .Title-one {
+        background: #662e9b;
+        width: 360px;
+        height: 1879px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .rectangle-6 {
+        background: #29272b;
+        width: 360px;
+        height: 332px;
+        position: absolute;
+        left: -1px;
+        top: 1547px;
+    }
+
+    .ytrUamy {
+        width: 173px;
+        height: 167px;
+        position: absolute;
+        left: 99px;
+        top: 62px;
+    }
+
+    .LittleIntro {
+        color: #f9c80e;
+        text-align: center;
+        font: 700 15px "Bahnschrift", sans-serif;
+        position: absolute;
+        left: 65px;
+        top: 294px;
+        width: 229px;
+        height: 88px;
+    }
+
+    .ButtonExplore {
+        background: #29272b;
+        border-radius: 50px;
+        padding: 10px 16px 15px 18px;
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        align-items: flex-start;
+        justify-content: flex-start;
+        height: 39px;
+        position: absolute;
+        left: 110px;
+        top: 374px;
+    }
+
+        .ButtonExplore:hover {
+            background-color: #ba9506;
+        }
+
+    .explore-creativity {
+        color: #ffffff;
+        text-align: left;
+        font: 700 13px "Bahnschrift", sans-serif;
+        position: relative;
+        width: 108px;
+        height: 26px;
+    }
+
+    .welcome-to-my-digital-playground {
+        color: #f9c80e;
+        text-align: center;
+        font: 700 24px "Bahnschrift", sans-serif;
+        position: absolute;
+        left: 21px;
+        top: 229px;
+        width: 318px;
+        height: 177px;
+    }
+
+    .lkyFDJF {
+        width: 265px;
+        height: 360px;
+        position: absolute;
+        left: 245px;
+        top: -99px;
+        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    }
+
+    .IntroFrame {
+        background: #29272b;
+        width: 360px;
+        height: 586px;
+        position: absolute;
+        left: -1px;
+        top: 495px;
+    }
+
+    .tWxCf6tZvRCos616cKV5PxR8Lh4 {
+        width: 176.17px;
+        height: 241.37px;
+        position: absolute;
+        left: 291.03px;
+        top: 703.31px;
+        transform-origin: 0 0;
+        transform: rotate(158.98deg) scale(1, 1);
+    }
+
+    .MoreIntro {
+        color: #ffffff;
+        text-align: center;
+        font: 700 14px "Bahnschrift", sans-serif;
+        position: absolute;
+        left: 69px;
+        top: 732px;
+        width: 219px;
+        height: 211px;
+    }
+
+    .vu2eNdD {
+        width: 106.72px;
+        height: 92px;
+        position: absolute;
+        left: 127px;
+        top: 576px;
+    }
+
+    .meet-louraine {
+        color: #f9c80e;
+        text-align: left;
+        font: 700 32.24px "Bahnschrift", sans-serif;
+        position: absolute;
+        left: 74px;
+        top: 680px;
+        width: 264px;
+        height: 52.4px;
+    }
+
+    .ButtonAbout {
+        background: #662e9b;
+        border-radius: 50px;
+        padding: 9px 26px 15px 15px;
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        align-items: flex-start;
+        justify-content: flex-start;
+        width: 149px;
+        height: 37px;
+        position: absolute;
+        left: 104px;
+        top: 930px;
+    }
+
+        .ButtonAbout:hover {
+            background-color: #f9c80e;
+        }
+
+    .see-more-about-me {
+        color: #ffffff;
+        text-align: left;
+        font: 700 13px "Bahnschrift", sans-serif;
+        position: relative;
+        width: 136px;
+        height: 26px;
+    }
+
+    .tWxCf6tZvRCos616cKV5PxR8Lh4-3 {
+        width: 346.76px;
+        height: 545.06px;
+        position: absolute;
+        left: 191.49px;
+        top: 1120px;
+        transform-origin: 0 0;
+        transform: rotate(53.736deg) scale(1, 1);
+    }
+
+    .most-recent-projects {
+        color: #f9c80e;
+        text-align: center;
+        font: 700 32px "Bahnschrift", sans-serif;
+        position: absolute;
+        left: 13px;
+        top: 1245px;
+        width: 346px;
+        height: 59px;
+    }
+
+    .ButtonProjects {
+        background: #29272b;
+        border-radius: 50px;
+        padding: 11px 23px 15px 5px;
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        align-items: flex-start;
+        justify-content: flex-start;
+        width: 176px;
+        height: 46px;
+        position: absolute;
+        left: 98px;
+        top: 1337px;
+    }
+
+        .ButtonProjects:hover {
+            background-color: #ba9506;
+        }
+
+    .see-more-here {
+        color: #ffffff;
+        text-align: center;
+        font: 700 16px "Bahnschrift", sans-serif;
+        position: relative;
+        width: 169px;
+        height: 26px;
+    }
+
+    .Connect-with-me {
+        color: #ffffff;
+        text-align: center;
+        font: 700 15px "Bahnschrift", sans-serif;
+        position: absolute;
+        left: 50px;
+        top: 1763px;
+        width: 274px;
+        height: 131px;
+    }
+
+    .icon-linked-in {
+        position: absolute;
+        left: 126px;
+        top: 1735px;
+        overflow: visible;
+    }
+
+    .icon-envelope-icon {
+        position: absolute;
+        left: 153.68px;
+        top: 1735px;
+        overflow: visible;
+    }
+
+    .icon-alternate-phone-square-icon {
+        position: absolute;
+        left: 183.39px;
+        top: 1735px;
+        overflow: visible;
+    }
+
+    .icon-instagram-alt-icon {
+        position: absolute;
+        left: 210.73px;
+        top: 1735px;
+        overflow: visible;
+    }
+
+    .let-s-connect {
+        color: #f9c80e;
+        text-align: center;
+        font: 700 20px "Bahnschrift", sans-serif;
+        position: absolute;
+        left: 92px;
+        top: 1705px;
+        width: 169px;
+        height: 30px;
+    }
 }
